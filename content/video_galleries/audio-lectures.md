@@ -1,6 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types:
+- Lecture Audio
+ocw_type: CourseSection
 title: Audio Lectures
 uid: f8d20f99-b5cd-8201-2f26-4814481d96fe
 videos:
