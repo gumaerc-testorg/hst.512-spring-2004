@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: fig1MTC_HST512.jpg
 uid: 5407c572-8eee-ceb2-61ec-205e2fb935b5
 ---
 Fig. 1. Patient With MTC (Image courtesy of Prof. Isaac Kohane.)
-

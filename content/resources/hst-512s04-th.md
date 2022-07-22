@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: Illustration showing basic steps used in microarray technology.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-512s04-th.jpg
 uid: 835bf301-e590-d8af-7bab-88296ef484c7
 ---
 New image Upload
-
