@@ -1,6 +1,7 @@
 ---
 content_type: video_gallery
 description: ''
+draft: false
 is_media_gallery: true
 learning_resource_types:
 - Lecture Audio
@@ -9,29 +10,27 @@ title: Audio Lectures
 uid: f8d20f99-b5cd-8201-2f26-4814481d96fe
 videos:
   content:
-  - 7a08cf44-205c-52e0-e571-bd8e4f4255fa
-  - 4bc31a84-a240-1c19-0083-411b2c226489
-  - af10176a-002b-305e-986c-2fec0709064d
-  - 2f88915b-9592-7c4c-ee7f-088f7b0d4fe4
-  - f82c26b2-3a0f-e779-1389-1319d57c1741
-  - 183533ff-32e1-4f12-66db-e6655f5203b6
-  - 72aedad6-d7f5-7e78-cd6e-f1e2196edb8f
-  - ea792412-9253-5063-68d3-724b8f51510b
-  - bc41c97a-4bd4-097e-05b6-b18eced8bd0f
-  - d35abb4a-027f-e0b3-b9cb-af1ccf8b40ed
-  - 3b74272e-ce5b-1f0c-7b51-5ce1102a234b
-  - 752c12ab-1e33-e07b-90ed-95ae021368e8
-  - b74094d2-a3e3-7b29-5b17-09eeac8d5522
-  - 0a36c210-5549-b98c-3d97-a24487e9f621
-  - f5cfc0f5-f79d-a6f5-cb09-c80d38ddf9b7
-  - 5f432378-be0d-f4a7-f151-04757652cdd5
-  - 6f4c59f1-297f-6431-614a-93c8debe59d3
-  - 435bd463-7e74-f259-8c3a-375b0dc9b8f2
-  - e31364b8-95b4-99fa-ad3f-6184e9bddb8d
+  - ef1dfd06-7732-42c0-903f-8bb61c3f875c
+  - 5b3270bc-db78-43e6-bbb0-cd82c92c9b55
+  - d073f2b9-288f-4426-b91f-e83a79753e59
+  - 4cc9e1cc-ee98-4b0a-a85d-ee84a392c1d2
+  - 428d5eb9-afba-468d-ae9e-a92c213b794c
+  - fba21aec-36f6-42d7-a193-c10fdae5ae00
+  - 34bd33f6-5732-41d8-b7a0-d8e0937a12b6
+  - c7cd4ab7-38e8-424d-b9b0-1d70e8dbef58
+  - 20ca22b5-a0df-40be-8a52-40b7771ca2d5
+  - 17ca6da0-fd20-4bc1-90c4-1f35330831d0
+  - 5412857f-0a68-4ed6-a25e-993444eecd3c
+  - d39066ea-27a3-4423-b364-8c9d7c143849
+  - 9fe98e2a-9961-4150-8dd9-cb9965e510fa
+  - d0570f89-c9de-4066-8eed-1e7265e0a659
+  - 130ea0f3-69c3-49d5-969a-ab4fc4ab5787
+  - e5b1a43f-754b-44c6-a50e-81d166de6d7d
+  - 46114d3e-cad7-4c4e-8d73-0ebb10baee0c
+  - 845a4b85-b59c-461d-a39f-ea0e2d00b939
+  - 9c40e889-0e07-4db7-afd2-46db2d7db499
   website: hst-512-genomic-medicine-spring-2004
 ---
-
-Lecture notes for many class sessions may be downloaded, and audio is available for all but one of the sessions.
+Lecture notes for many class sessions may be downloaded, and audio is available for all but one of the sessions on the Internet Archive at: https://archive.org/details/MITHST.512S04.
 
 {{< video-gallery "f8d20f99-b5cd-8201-2f26-4814481d96fe" >}}
-
