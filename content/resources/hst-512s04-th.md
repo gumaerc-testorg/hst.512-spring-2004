@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/hst-512-genomic-medicine-spring-2004/835bf301e590d8af7bab88296ef484c7_hst-512s04-th.jpg
+file: /ol-ocw-studio-app/courses/hst-512-genomic-medicine-spring-2004/835bf301e590d8af7bab88296ef484c7_hst-512s04-th.jpg
 file_size: 15985
 file_type: image/jpeg
 image_metadata:
