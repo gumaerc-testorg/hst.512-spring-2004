@@ -1,15 +1,14 @@
 ---
 content_type: page
-description: ''
+description: Problem set
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: a2bb014e-0e23-3cfc-f691-f6b55d7a1d88
 ---
-
-Problem Set from Prof. Kohane
------------------------------
+## Problem Set from Prof. Kohane
 
 The purpose of this problem set is to familiarize you with just how central a genetic test is today to the diagnostic and therapeutic process. Toward the end of this problem set you will also become familiar with how the knowledge of the genomic extent of human disease and its modifiers can be leveraged to improve the breadth and depth of our care for our patients. The tools that you will use for this problem set are simple: a Web browser, a search engine (e.g., [Google](http://www.google.com/)), and a medical literature database (e.g., [PubMed](http://ncbi.nlm.nih.gov/)).
 
@@ -21,10 +20,10 @@ You read the contents of that link, but decide to do your own search.
 
 You then do a search in [Endocrine Abstracts](http://www.endocrine-abstracts.org/) and you find the following:
 
-Shine, B. "[Routine Calcitonin Measurement in Management of Thyroid Nodules: A Decision Analysis Approach](http://www.endocrine-abstracts.org/ea/0003/ea0003p149.htm)." _Endocrine Abstracts_ 3: 149.
+Shine, B. "[Routine Calcitonin Measurement in Management of Thyroid Nodules: A Decision Analysis Approach](http://www.endocrine-abstracts.org/ea/0003/ea0003p149.htm)." *Endocrine Abstracts* 3: 149.
 
-Another approach to the diagnosis is suggested in  
-Baloch, Zubair. "[Cytology Special: Penn Web Case Cyto01-1](http://pathology.uphs.upenn.edu/)." University of Pennsylvania Health System Web site, 2002.
+Another approach to the diagnosis is suggested in   
+Baloch, Zubair. "Cytology Special: Penn Web Case Cyto01-1." University of Pennsylvania Health System Web site, 2002.
 
 But, because your patient had mentioned that he did a Web search you look up the [GeneTests](http://www.genetests.org/) site and find some interesting genetic tests that might be useful for the diagnosis.
 
@@ -32,7 +31,7 @@ But, because your patient had mentioned that he did a Web search you look up the
 
 2\. What are the possible clinical associations for GM? How would you work him up or screen him for these other associations? Draw an alternative decision tree to the one shown in Figure 1.
 
-{{< resource "5407c572-8eee-ceb2-61ec-205e2fb935b5" >}}
+{{< resource uuid="5407c572-8eee-ceb2-61ec-205e2fb935b5" >}}
 
 Fig. 1. Patient With MTC (Image courtesy of Prof. Isaac Kohane.)
 
