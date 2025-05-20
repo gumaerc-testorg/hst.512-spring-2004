@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/hst-512-genomic-medicine-spring-2004/mithst_512s04_lec11_360p_16_9.mp4
+file: courses/hst-512-genomic-medicine-spring-2004/mithst_512s04_lec11_360p_16_9.mp4
 file_size: 75157382
 file_type: video/mp4
 image_metadata:

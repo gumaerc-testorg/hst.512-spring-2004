@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Fig. 1. Patient With MTC (Image courtesy of Prof. Isaac Kohane.)
-file: /ol-ocw-studio-app/courses/hst-512-genomic-medicine-spring-2004/5407c5728eeeceb261ec205e2fb935b5_fig1MTC_HST512.jpg
+file: /courses/hst-512-genomic-medicine-spring-2004/5407c5728eeeceb261ec205e2fb935b5_fig1MTC_HST512.jpg
 file_size: 18872
 file_type: image/jpeg
 image_metadata:
