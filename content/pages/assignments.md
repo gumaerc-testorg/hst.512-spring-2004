@@ -10,22 +10,22 @@ uid: a2bb014e-0e23-3cfc-f691-f6b55d7a1d88
 ---
 ## Problem Set from Prof. Kohane
 
-The purpose of this problem set is to familiarize you with just how central a genetic test is today to the diagnostic and therapeutic process. Toward the end of this problem set you will also become familiar with how the knowledge of the genomic extent of human disease and its modifiers can be leveraged to improve the breadth and depth of our care for our patients. The tools that you will use for this problem set are simple: a Web browser, a search engine (e.g., [Google](http://www.google.com/)), and a medical literature database (e.g., [PubMed](http://ncbi.nlm.nih.gov/)).
+The purpose of this problem set is to familiarize you with just how central a genetic test is today to the diagnostic and therapeutic process. Toward the end of this problem set you will also become familiar with how the knowledge of the genomic extent of human disease and its modifiers can be leveraged to improve the breadth and depth of our care for our patients. The tools that you will use for this problem set are simple: a Web browser, a search engine (e.g., {{% resource_link "ecd4e6ce-6e53-4239-bf97-4f8c869cface" "Google" %}}), and a medical literature database (e.g., {{% resource_link "91dd33ce-ffa1-40fc-bdae-0711d06d9007" "PubMed" %}}).
 
-A 24 year old male, GM, presents in your clinic with a bump in his neck. Palpation and imaging confirms that he does have a thyroid nodule. However, after a fine needle biopsy you inform him that no malignancy was found but that such biopsies can often miss a thyroid malignancy. At that point, although you had previously asked about his family history, he remembers that his paternal uncle had Medullary Thyroid Cancer (MTC) and "bumps" on his lips and in his mouth. His uncle had mentioned something about being told he had something called "MEN IIB" and that "the mutation is on codon 790" (but he cannot remember the name of the gene). Your patient has surfed the web and has read that MTC can occur in families and is also associated with other malignancies. He wants to know if this applies to him and how you propose to work him up. He then mentions that he has a 3-year-old half-brother, PM, and wonders if PM is at risk. He had looked it up on [Yahoo](http://www.yahoo.com/) and found the following:
+A 24 year old male, GM, presents in your clinic with a bump in his neck. Palpation and imaging confirms that he does have a thyroid nodule. However, after a fine needle biopsy you inform him that no malignancy was found but that such biopsies can often miss a thyroid malignancy. At that point, although you had previously asked about his family history, he remembers that his paternal uncle had Medullary Thyroid Cancer (MTC) and "bumps" on his lips and in his mouth. His uncle had mentioned something about being told he had something called "MEN IIB" and that "the mutation is on codon 790" (but he cannot remember the name of the gene). Your patient has surfed the web and has read that MTC can occur in families and is also associated with other malignancies. He wants to know if this applies to him and how you propose to work him up. He then mentions that he has a 3-year-old half-brother, PM, and wonders if PM is at risk. He had looked it up on {{% resource_link "116e8a1f-1f89-48eb-ba62-6f1a4e3c62d6" "Yahoo" %}} and found the following:
 
-"[Medullary Carcinoma of Thyroid](http://www.healthcentral.com/ency/408/000374.html)." Health Central Web site.
+"{{% resource_link "74da15ca-b8d2-44f7-b886-b1b967952a8e" "Medullary Carcinoma of Thyroid" %}}." Health Central Web site.
 
 You read the contents of that link, but decide to do your own search.
 
-You then do a search in [Endocrine Abstracts](http://www.endocrine-abstracts.org/) and you find the following:
+You then do a search in {{% resource_link "5a4cbef6-998c-4bcc-9142-7a37ffd05d06" "Endocrine Abstracts" %}} and you find the following:
 
-Shine, B. "[Routine Calcitonin Measurement in Management of Thyroid Nodules: A Decision Analysis Approach](http://www.endocrine-abstracts.org/ea/0003/ea0003p149.htm)." *Endocrine Abstracts* 3: 149.
+Shine, B. "{{% resource_link "2506bc2c-08f3-4675-8bdc-110c646623ac" "Routine Calcitonin Measurement in Management of Thyroid Nodules: A Decision Analysis Approach" %}}." *Endocrine Abstracts* 3: 149.
 
 Another approach to the diagnosis is suggested in   
 Baloch, Zubair. "Cytology Special: Penn Web Case Cyto01-1." University of Pennsylvania Health System Web site, 2002.
 
-But, because your patient had mentioned that he did a Web search you look up the [GeneTests](http://www.genetests.org/) site and find some interesting genetic tests that might be useful for the diagnosis.
+But, because your patient had mentioned that he did a Web search you look up the {{% resource_link "37514326-ffe4-436a-8bf1-20ca5ea41ede" "GeneTests" %}} site and find some interesting genetic tests that might be useful for the diagnosis.
 
 1\. What gene is most likely to explain GM's clinical findings?
 
